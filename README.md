@@ -2,7 +2,7 @@
 Olá, sou Emerson Rodrigues<br>- 🔭 Front-end developer <br>- 🌱 Estudando | JavaScript e React<br>- 📫 Contate-me: Emerson500@hotmail.com.br<br>
 
 
-## 🌐 Socials:
+## 🌐Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emerson.rrodrigues) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emerson-rodrigues-864b54121) 
 
 # 💻 Tecnologias:
